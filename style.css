@@ -1,0 +1,24 @@
+/* For font family open the Font family PDF */
+
+/* Color variables */
+:root {
+  --body-color: #1f1f1f;
+  --text-color: #fdfdfd;
+  --link-color: rgb(97, 97, 255);
+  --button-color: rgb(76, 255, 76);
+}
+
+body { 
+  padding: 1rem;
+  background-color: var(--body-color); 
+  color:  var(--text-color); 
+}
+
+.main { font-size: 2rem; }
+
+h1 { color: var(--link-color); font-family: Rockwell; }
+
+/*Responsive from here*/
+@media only screen and (max-width: 600px) {
+    .main { font-size: 1rem; }
+  }

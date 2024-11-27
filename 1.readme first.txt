@@ -1,0 +1,5 @@
+This is the web project starter template with CSS variables & Font styles
+For icons visit this 2 websites : 
+  
+  1.For font awesome cdn link- https://cdnjs.com/libraries/font-awesome
+  2.For icons list- https://fontawesome.com/

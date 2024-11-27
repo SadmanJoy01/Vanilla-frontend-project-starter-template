@@ -1,0 +1,18 @@
+ HTML :
+
+ <ul class="lides">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+ CSS :
+
+.lides { list-style: none; }

@@ -1,0 +1,13 @@
+ HTML :
+
+<img class="circular-image" src="" alt="" title="">
+
+ CSS :
+
+ .circular-image {
+width: 200px;
+height: 200px;
+border-radius: 50%; /* Makes the image circular */
+overflow: hidden; /* Ensures the image doesn't overflow the
+borderradius */
+}

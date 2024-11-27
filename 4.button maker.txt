@@ -1,0 +1,30 @@
+ HTML :
+
+<button class="modern-btn">Button</button>
+
+ CSS:
+
+.modern-btn {
+    padding: 15px 30px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 8px 15px rgba(0, 123, 255, 0.3);
+}
+
+.modern-btn:hover {
+    background-color: #0056b3;
+    box-shadow: 0px 15px 20px rgba(0, 123, 255, 0.4);
+    transform: translateY(-3px);
+}
+
+.modern-btn:active {
+    background-color: #003f7f;
+    transform: translateY(0);
+    box-shadow: 0px 8px 15px rgba(0, 123, 255, 0.3);
+}
+
